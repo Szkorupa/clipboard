@@ -91,5 +91,21 @@ input{
     width: 50%;
 }
 .section2Right img{
-    width: 50%;
+    width: 100%;
+}
+.open2{
+    font-family: 'Open Sans', sans-serif;
+    color: hsl(238, 22%, 44%);
+    font-size: 16px;
+    padding-top: 35px;
+}
+.green{
+    font-family: 'Open Sans', sans-serif;
+    color: #359a84;
+    text-decoration: none;
+    padding-bottom: 5px;
+    border-bottom: 2px #359a84 solid;
+}
+.green img{
+    padding-bottom: 1px;
 }
